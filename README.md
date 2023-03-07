@@ -1,6 +1,6 @@
-# micro
+# My Plant
 
-A new Flutter project.
+A new Flutter based IOT project that uses firebase as its backend.
 
 ## Getting Started
 
